@@ -1,0 +1,11 @@
+# Coursework document
+CW2 Assignment and Assessment SCC361_2023-24.pdf
+
+# MATLAB-generated files
+*.asv
+*.m~
+slprj/
+*.slxc
+
+# macOS
+.DS_Store
